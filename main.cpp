@@ -1,3 +1,4 @@
+//ada bahasa indonesia dan bahasa inggris
 //bahasa inggris
 // single linked list
 #include <iostream>
