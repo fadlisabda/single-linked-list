@@ -1,5 +1,5 @@
-// ada bahasa indonesia dan bahasa inggris
-// bahasa inggris
+// there are Indonesian and English
+// English
 // single linked list
 // #include <iostream>
 // using namespace std;
@@ -172,7 +172,7 @@
 //    } while (select! = '4');
 // }
 
-//BAHASA INDONESIA
+//INDONESIAN
 //single linked list
 #include <iostream>
 using namespace std;
